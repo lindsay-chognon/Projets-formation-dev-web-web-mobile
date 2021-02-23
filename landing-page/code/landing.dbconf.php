@@ -2,8 +2,8 @@
 
   const DB_HOST    = "localhost";
   const DB_NAME    = "admin_site";
-  const DB_LOGIN   = "superuser";
-  const DB_PASS    = "ardècheVaincra!";
+  const DB_LOGIN   = "user_invit";
+  const DB_PASS    = "user_invit";
 
   const DB_DRIVER  = "mysql";
   const DB_CHARSET = "utf8mb4";
